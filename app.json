@@ -1,5 +1,5 @@
 {
-  "name": "SIGMA-MD WHATSAPP BOT BY MAHER ZUBAIR",
+  "name": "SIGMA-MD WHATSAPP BOT BY bryan_x",
   "description": "A Whatsapp Bot With Most Premium Features Makes Your Whatsapp Premium. For Any Help See My YT:https://www.youtube.com/@InnoxentTech",
   "logo": "https://telegra.ph/file/e5768d0b5a4441b4e576b.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "SIGMA_MD", "SIGMA_BOT", "SIGMA","SIGMA_MD-BOT","Multi-Themes Bot","multi device"],
@@ -10,7 +10,7 @@
 
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Maher Zubair"
+      "value": "bryan_x md"
   },
 
    "THUMB_IMAGE": {
@@ -55,12 +55,12 @@
 
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
-      "value": "."
+      "value": ".,!"
   },
 
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "923466319114"
+       "value": "2348106546983"
   },
 
    "SESSION_ID": {
@@ -80,18 +80,18 @@
 
     "WORKTYPE": {
   "description": "Worktype of your bot. if it is private then only bot owner can use it. If public then everyone can use it.",
-         "value": "public"
+         "value": "private"
   },
 
   "PACK_NAME": {
     "description": "Put Sticker Pack_Name.",
-     "value": "sɪɢᴍᴀ-ᴍᴅ",
+     "value": "bryan-ᴍᴅ",
      "required": false 
   },
 
 "PACK_AUTHER": {
     "description": "Put Sticker Author Name.",
-     "value": "ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ",
+     "value": "bryan md",
      "required": false 
   },
 
@@ -109,7 +109,7 @@
 
 "BOT_NAME": {
   "description": "Add Your Own Bot Name",
-   "value": "sɪɢᴍᴀ-ᴍᴅ"
+   "value": "bryan_x-ᴍᴅ"
     
 }
 },
